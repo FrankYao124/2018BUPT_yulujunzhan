@@ -1,0 +1,15 @@
+<!--start.wxml-->
+
+<button class="btn0" bindtap="validate">花朵的环境参数</button>
+<view class="text0"> 因为想你，再瞥一眼曲线    </view>
+<button id="btn1" 
+bindtap="send1">浇第1盆花</button>
+<text id="text1">江流有声，断岸千尺</text>
+
+<button id="btn2" 
+bindtap="send2">浇第2盆花</button>
+<text id="text2">山高月小，水落石出。     </text>
+
+
+
+
